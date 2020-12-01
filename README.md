@@ -1,10 +1,14 @@
-# voronoi_matlab
+# Voronoi diagrams for polygonal obstacles
+## Details
 Extending Matlab's Voronoi diagram functionality from point objects to 2D polygonal objects
 There are 4 Matlab files in main project directory:
-1.Obstacle Draw.m
-2. Get Voronoi.m
-3.Final Path.m  
-4.dijkstra.m. 
+
+  *1.Obstacle Draw.m 
+  *2. Get Voronoi.m
+  *3.Final Path.m  
+  *4.dijkstra.m
+
+## Usage
 Using Obstacle Draw.m any polygonal obstacle configuration
 can be drawn. For drawing obstacle Obstacle Draw.m
 needs to be run first then a figure window will come. to
