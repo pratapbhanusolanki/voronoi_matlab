@@ -1,6 +1,6 @@
 # Voronoi diagrams for polygonal obstacles
 ## Details
-Extending Matlab's Voronoi diagram functionality from point objects to 2D polygonal objects
+Extending Matlab's Voronoi diagram functionality from point objects to 2D polygonal objects. Please refer to slides (project_slides.pdf) and the report (report.pdf) for illustrated details.
 There are 4 Matlab files in main project directory:
 
   1.Obstacle Draw.m 
