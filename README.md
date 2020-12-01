@@ -5,7 +5,7 @@ There are 4 Matlab files in main project directory:
 
   1.Obstacle Draw.m 
   
-  2. Get Voronoi.m
+ 2. Get Voronoi.m
   
   3.Final Path.m  
   
